@@ -1,3 +1,5 @@
 .idea/
 .git/
 cmake-build-debug/*
+__pycache__/
+app/__pycache__/
